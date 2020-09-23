@@ -228,7 +228,7 @@ function App() {
                       fill="white"
                     />
                   </svg>
-                  <span>Добавить</span>
+                  <span>Добавитьh</span>
                   <i>2</i>
                 </div>
               </div>
